@@ -1,0 +1,38 @@
+Research :
+* When and why BDD was defined:
+  - break gap between team members
+  - focused in the behavior
+  - it was born after see the holes that we have in other methodologies
+* The most important aspects of BDD:
+    -
+* Why is useful and when could be applied:
+    - All team members can understand the feature
+    - Natural Language
+
+* Which type of teams could implement BDD:
+    - any team can implement
+
+Structure of a feature – Give an example
+  Name: Create Projects
+  Size: -
+  Priority: 1
+
+Structure of a user story – Give an example
+  Title:
+  Narrative: Create new project
+  As a user
+  I want to create a new project
+  So that to group my items
+
+Structure of a scenario – Give an example
+
+  Given I'm logged into the application
+  When I set Name Project and click Add button
+  Then the created project should be displayed
+
+Differences between BDD and BDT
+
+BDD => for development
+ - Apply in all process
+BDT => for testing
+ - Apply to validate the scenarios 
