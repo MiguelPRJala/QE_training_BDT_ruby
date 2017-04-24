@@ -5,7 +5,6 @@
 
 Feature: Google main page
 
-
 Scenario: Google main page display a custom Doodle image
   Given I have opened the web browser
   When I navigate to Google main page
